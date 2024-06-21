@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">SavorCapstone</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="onboarding1">Every year, Indonesians waste\n enough food to feed</string>
+    <string name="onboarding2">3 BILLION\nPEOPLE</string>
+    <string name="onboarding3">I don’t remember what’s in my fridge</string>
+    <string name="onboarding4">What do I do with all these onions?</string>
+    <string name="onboarding5">Is this produce still good to eat?</string>
+    <string name="onboarding6">I wish there was an app that could\nkeep track of all this for me</string>
+    <string name="onboarding7">Sound familiar?\nLook no further.</string>
+    <string name="onboarding8">BE PART OF\nTHE SOLUTION</string>
+
+    <string name="viewmyitems">View My Items</string>
+    <string name="inputitems">Input New Items</string>
+    <string name="inputmanually">Input Your Items Here</string>
+
+    <string name="default_web_client_id">556975434061-orim5fipo142t8f7ulj9umtnba2ohr0o.apps.googleusercontent.com</string>
+
+    <string name="image_classifier_failed">Image classifier failed to initialize. See error logs for details</string>
+</resources>
